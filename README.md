@@ -105,4 +105,7 @@ BOOKING | Train _no    train _date   category
 CANCEL | Ticket_ID
 
 ## Draw a Use Case Diagram for the Railway Reservation System.
+
+## Draw a Class Diagram.
+![image](https://user-images.githubusercontent.com/64952843/99505325-bb0b2a80-2991-11eb-8cd5-7020c8b8168a.png)
  
