@@ -98,14 +98,14 @@
 
 Classes | ATTRIBUTES
 -- | --
-TRAINLIST | Train_no   Train_name   Source   Destination   Fair_for _BC,EC,PC_ticket   Fair_for_ general_ ticket
-TRAIN_STATUS | train _date    total _number _of _BC,EC,PC _seats    total _number _of _general_seats    number_of BC,EC.PC_seats _booked    number_of _general _seats_ booked
-PASSANGERS | Ticket _ ID    train _number    date _for _which _ticket _is _booked   name    age    sex     address _of _the _passenger   status _of _reservation (either    confirmed  or    waiting)   category_for _which_ ticket_ is _booked.
-BOOKING | Train _no    train _date   category
+TRAINLIST | Train_no  , Train_name  , Source ,  Destination,   Fair_for _BC,EC,PC_ticket ,  Fair_for_ general_ ticket
+TRAIN_STATUS | train _date ,   total _number _of _BC,EC,PC _seats  ,  total _number _of _general_seats ,   number_of BC,EC.PC_seats _booked  ,  number_of _general _seats_ booked
+PASSANGERS | Ticket _ ID  ,  train _number   , date _for _which _ticket _is _booked ,  name ,   age  ,  sex ,    address _of _the _passenger ,  status _of _reservation (either    confirmed  or    waiting)   category_for _which_ ticket_ is _booked.
+BOOKING | Train _no  ,  train _date  , category
 CANCEL | Ticket_ID
 
 ## Draw a Use Case Diagram for the Railway Reservation System.
-
+![use case rail](https://user-images.githubusercontent.com/64952843/99508591-d24c1700-2995-11eb-9910-6c726e4df957.png)
 ## Draw a Class Diagram.
 ![image](https://user-images.githubusercontent.com/64952843/99505325-bb0b2a80-2991-11eb-8cd5-7020c8b8168a.png)
  ## Draw a sequence Diagram
