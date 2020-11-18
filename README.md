@@ -108,4 +108,5 @@ CANCEL | Ticket_ID
 
 ## Draw a Class Diagram.
 ![image](https://user-images.githubusercontent.com/64952843/99505325-bb0b2a80-2991-11eb-8cd5-7020c8b8168a.png)
- 
+ ## Draw a sequence Diagram
+ ![image](https://user-images.githubusercontent.com/64952843/99505802-5a302200-2992-11eb-84fe-8c565f802558.png)
